@@ -1,16 +1,30 @@
-## Hi there 👋
+# Hi, I'm Divyansh Mishra 👋
 
-<!--
-**divyansh-9022/divyansh-9022** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Full Stack Developer | React.js | Node.js | Java | Python
 
-Here are some ideas to get you started:
+I'm a passionate developer who enjoys building responsive websites, web applications, and practical software solutions.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 💻 Interested in Full Stack Development and Software Engineering
+- 🌱 Currently improving my skills in React, Node.js, and backend development
+- 🚀 Building real-world projects and exploring new technologies
+- 📍 Based in Nagpur, India
+
+### 🛠️ Tech Stack
+
+- **Frontend:** React.js, Next.js, JavaScript, HTML, CSS
+- **Backend:** Node.js, Express.js, Java, Python
+- **Databases:** MySQL, MongoDB, PostgreSQL, Supabase
+- **Tools:** Git, GitHub, Postman, VS Code
+
+### 🚀 Featured Projects
+
+- **Portfolio Website:** https://divyansh-portfolio-steel.vercel.app
+- **Loan Application Form:** https://github.com/divyansh-9022/loan-application-form
+- **GitHub Projects:** https://github.com/divyansh-9022
+
+### 🌐 Connect With Me
+
+- **Portfolio:** https://divyansh-portfolio-steel.vercel.app
+- **LinkedIn:** https://www.linkedin.com/in/divyansh-mishra-a89982374/
+- **GitHub:** https://github.com/divyansh-9022
+- **Email:** divyansh9022@gmail.com
